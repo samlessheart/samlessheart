@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samlessheart
 - 👀 I’m interested in doing stuff in programming
-- 🌱 I’m currently learning machine learning and Tensorflow
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me Email - cyrilekta@gmail.com
 
