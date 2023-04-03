@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samlessheart
 - 👀 I’m interested in creating stuff in Python
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Djanog 
+- 💞️ I’m looking to collaborate on Django 
 - 📫 How to reach me Email - cyrilekta@gmail.com
 
 <!---
